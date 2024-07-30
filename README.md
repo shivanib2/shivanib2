@@ -1,7 +1,7 @@
 <!--[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Shivani</h1>
 <h3 align="center">A passionate Software and frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20girl%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F25%2F21%2F6a%2F25216a1e57de1b6a39b8d5d3cf36f36e.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fshourimajo-never-ever-done-sticker-shourimajo-never-ever-done-web-discover-share-gifs--699465385893495687%2F&docid=ItKZ5kNPOg7DdM&tbnid=Spstpe4bA_aL0M&vet=12ahUKEwiAw5Kmqc-HAxXpr1YBHUeMAzEQM3oECF0QAA..i&w=495&h=371&hcb=2&ved=2ahUKEwiAw5Kmqc-HAxXpr1YBHUeMAzEQM3oECF0QAA">
+<img src= "https://www.google.com/imgres?q=animated%20coding%20girl%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F25%2F21%2F6a%2F25216a1e57de1b6a39b8d5d3cf36f36e.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fshourimajo-never-ever-done-sticker-shourimajo-never-ever-done-web-discover-share-gifs--699465385893495687%2F&docid=ItKZ5kNPOg7DdM&tbnid=Spstpe4bA_aL0M&vet=12ahUKEwiAw5Kmqc-HAxXpr1YBHUeMAzEQM3oECF0QAA..i&w=495&h=371&hcb=2&ved=2ahUKEwiAw5Kmqc-HAxXpr1YBHUeMAzEQM3oECF0QAA " align= "right" alt= "coding" width="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanib2&label=Profile%20views&color=0e75b6&style=flat" alt="shivanib2" /> </p>
 
